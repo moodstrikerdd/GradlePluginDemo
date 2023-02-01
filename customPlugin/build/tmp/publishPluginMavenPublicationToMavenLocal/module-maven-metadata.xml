@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>GradlePluginDemo</groupId>
+  <artifactId>customPlugin</artifactId>
+  <versioning>
+    <latest>unspecified</latest>
+    <release>unspecified</release>
+    <versions>
+      <version>unspecified</version>
+    </versions>
+    <lastUpdated>20230201081402</lastUpdated>
+  </versioning>
+</metadata>
